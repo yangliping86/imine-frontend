@@ -72,6 +72,14 @@ menus:
   purePermissionButton: 按钮权限
   purePermissionButtonRouter: 路由返回按钮权限
   purePermissionButtonLogin: 登录接口返回按钮权限
+  pureSystemManage: 系统管理
+  pureSystemDept: 部门管理
+  pureSystemUser: 用户管理
+  pureSystemRole: 角色管理
+  pureSystemMenu: 菜单管理
+  pureSystemDict: 字典管理
+  pureSystemConfig: 配置管理
+  pureSystemLog: 日志管理
 status:
   pureLoad: 加载中...
   pureMessage: 消息
