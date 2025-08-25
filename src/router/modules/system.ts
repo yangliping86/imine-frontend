@@ -12,7 +12,7 @@ export default {
   children: [
     {
       path: "/system/user",
-      name: $t("menus.pureSystemUser"),
+      name: "user",
       component: () => import("@/views/system/user/index.vue"),
       meta: {
         title: $t("menus.pureSystemUser")
@@ -20,7 +20,7 @@ export default {
     },
     {
       path: "/system/dept",
-      name: $t("menus.pureSystemDept"),
+      name: "dept",
       component: () => import("@/views/system/dept/index.vue"),
       meta: {
         title: $t("menus.pureSystemDept")
